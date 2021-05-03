@@ -17,8 +17,8 @@ Project is created with:
 * pandas
 
 ## Setup
-First set the path to root directory of this application in line 47 in manage.py.
-To run this project clone the directory, then go to its root directory and open the shifttracker folder. Once you are in the directory, from your terminal/cmd run ```python mainwindow.py```
+To run this project, clone the directory and set the path to root directory of this application in line 47 in manage.py.
+Then go to its root directory and open the shifttracker folder. Once you are in the directory, from your terminal/cmd run ```python mainwindow.py```
 
 ## Source
 The structure of the code is an object oriented approach suggested by @BryanOakley in stackoverflow.
