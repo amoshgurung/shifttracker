@@ -44,7 +44,7 @@ class FileManager:
 
     def __init__(self):
         # setting path to data directory
-        self.current_path = Path(Path.home(), 'Documents', 'dev', 'python_projects', 'shifttracker')
+        self.current_path = Path('') #TODO: Add path to the root folder before running the program.
         self.path_to_users_db = Path(self.current_path, 'data', 'users_db.csv')
         self.path_to_shift_db = Path(self.current_path, 'data', 'shift_db.csv')
         self.user_db_df = pd.read_csv(self.path_to_users_db)
