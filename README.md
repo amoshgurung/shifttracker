@@ -18,7 +18,7 @@ Project is created with:
 
 ## Setup
 To run this project, clone the directory and set the path to root directory of this application in line 47 in manage.py.
-Then go to its root directory and open the shifttracker folder. Once you are in the directory, from your terminal/cmd run ```python mainwindow.py```
+Then go to its root directory and open the shifttracker folder. Once you are in the directory, from your terminal/cmd run ```python main.py```
 
 ## Source
 The structure of the code is an object oriented approach suggested by @BryanOakley in stackoverflow.
