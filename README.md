@@ -21,6 +21,6 @@ To run this project, clone the directory and set the path to root directory of t
 Then go to its root directory and open the shifttracker folder. Once you are in the directory, from your terminal/cmd run ```python main.py```
 
 ## Source
-The structure of the code is an object oriented approach suggested by @BryanOakley in stackoverflow.
+The structure of the code(tkinter) is an object oriented approach suggested by @BryanOakley in stackoverflow.
 
 
