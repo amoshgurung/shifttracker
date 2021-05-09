@@ -10,7 +10,7 @@ import pandas as pd
 
 class FileManager:
     """
-    This class is for interacting with the csv files. Addition to open and editing of the csv files, it also allows easy
+    A class for interacting with the csv files. Addition to open and editing of the csv files, it also allows easy
     access to contents within the files.
 
     Attributes
