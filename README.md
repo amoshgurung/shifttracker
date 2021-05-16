@@ -1,5 +1,5 @@
 # Shifttracker
-ShiftTracker is a computer application that allows users to stored their daily working hours. The primary function of this app is to make the task of keeping track of working hours effortless.
+ShiftTracker is a computer application that allows users to store their daily working hours. The primary function of this app is to make the task of keeping track of working hours effortless.
 
 ## Table of contents
 * [General info](#general-info)
